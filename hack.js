@@ -155,6 +155,7 @@ function sleep(ms) {
 }
 
 function Main2() {
+  debugger;
   alert("test");
 }
 
