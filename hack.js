@@ -154,5 +154,9 @@ function sleep(ms) {
   return new Promise(resolve => setTimeout(resolve, ms));
 }
 
+function Main2() {
+  alert("test");
+}
+
 // Start the loop
-Main();
+Main2();
